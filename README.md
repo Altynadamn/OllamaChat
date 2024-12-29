@@ -36,19 +36,21 @@ Before you begin, ensure that you have the following installed:
    git clone https://github.com/yourusername/LlamaChat.git
    cd LlamaChat
 Create a virtual environment (optional but recommended):
+
 `python -m venv venv`
+
 Activate the virtual environment:
 
-On Windows bash: 
+- On Windows bash: 
 `.\venv\Scripts\activate`
 
-On macOS/Linux:
+- On macOS/Linux:
 `source venv/bin/activate`
 
-Install the dependencies:
+- Install the dependencies:
 `pip install -r requirements.txt`
 
-Run the application:
+- Run the application:
 `streamlit run app.py`
 
 Open your browser and go to the URL shown in the terminal, usually http://localhost:8501.
