@@ -1,0 +1,7 @@
+streamlit
+langchain_community
+llama-index
+chromadb
+duckdb
+sentence-transformers
+pymongo
