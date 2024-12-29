@@ -36,10 +36,7 @@ Before you begin, ensure that you have the following installed:
    git clone https://github.com/yourusername/LlamaChat.git
    cd LlamaChat
 Create a virtual environment (optional but recommended):
-
-bash
-Копировать код
-python -m venv venv
+`python -m venv venv`
 Activate the virtual environment:
 
 On Windows bash: 
